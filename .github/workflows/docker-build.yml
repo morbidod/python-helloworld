@@ -42,4 +42,3 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: morbidod/python-helloworld:latest
-      -
